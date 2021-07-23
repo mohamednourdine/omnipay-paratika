@@ -29,6 +29,6 @@
         "psr-4": { "Omnipay\\Paratika\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "^3.1"
+        "omnipay/common": "~2.0"
     }
 }
